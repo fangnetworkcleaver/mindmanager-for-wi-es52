@@ -1,4 +1,4 @@
-# 
+# instant MindManager for Windows Extension | search-functionality + templates offers the most advanced MindManager for Windows extension, with search-functionality and templates.
 
 
 
